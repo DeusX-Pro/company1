@@ -16,7 +16,7 @@ body.light-d .detail-page,
 body.light-d .project-detail-slider,
 body.light-d .construction-services,
 body.light-d .service-style-one{
-    background-color: black;
+    background-color: white;
     z-index: 0;
 }
 body.light-d .blog-heading a.theme-btn:hover,
@@ -88,10 +88,10 @@ body.light-d .shop-style-one.addition .row.list > div .product:hover a.theme-btn
 body.light-d .detail-page p span,
 body.light-d .team-detail .fav-project .f-p-box h2 a
  {
-    color: white;
+    color: black;
 }
 body.light-d .next-prev-projects:hover li a i{
-   color: black;
+   color: white;
 }
 body.light-d .counter-style-one .counter-data .count i{
     color: #999;
@@ -180,11 +180,11 @@ body.light-d .nice-select .option.focus,
 body.light-d .nice-select .option.selected.focus,
 body.light-d .nice-select .option,
 body.light-d .nice-select .list  {
-    background-color: #0f0f0f;
+    background-color: white;
 }
 body.light-d .counter-style-one .counter-data h4,body.light-d .team-style-one .team-data .team-info p{
-    color: #999;
-    -webkit-text-fill-color:#999;
+    color: black;
+    -webkit-text-fill-color:black;
 }
 body.light-d .counter-style-one,
 body.light-d .project-style-one .project-post .project-data,
@@ -206,7 +206,7 @@ body.light-d .checkout .billing input,
 body.light-d .checkout .billing .nice-select,
 body.light-d .pd-quality input,
 body.light-d .shop-style-one.addition .grid .product .btn-hover figure:before {
-    background-color: black;
+    background-color: white;
 }
 body.light-d .core-features .accordion-item,
 body.light-d .contact-form-2 form input,
@@ -222,22 +222,22 @@ body.light-d .shop-style-one .p-slider .owl-dots button.active,
 body.light-d .blog-style-two .blog-slider .owl-dots button.active,
 body.light-d .project-detail-slider .p-d-slider .owl-dots button.active,
 body.light-d .project-style-one .project-slider .owl-dots button.active{
-    background-color: white;
-    border-color: white;
+    background-color: black;
+    border-color: black;
 }
 
 body.light-d .service-style-one .service-data h3{
-    color: white;
+    color: black;
 }
 body.light-d .team-style-one {
-    background-color: black;
+    background-color: white;
 }
 body.light-d .certificates .c-slider .c-main .c-second span{
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid black;
     color: #999;
 }
 body.light-d .service-style-one .service-data .svg-icon:before{
-    background-color: black;
+    background-color: white;
 }
 body.light-d img.light-icon
 {
@@ -248,10 +248,10 @@ body.light-d img.dark-icon {
     display: block;
 }
 body.light-d .blog-style-one .blog-data .blog-date:before{
-    border: 3px solid black;
+    border: 3px solid white
 }
 body.light-d .certificates .c-slider .owl-nav button{
-    border: 1px solid #ffffff;
+    border: 1px solid black;
  }
 
 body.light-d .pricing-plans,body.light-d .service-style-two {
@@ -259,7 +259,7 @@ body.light-d .pricing-plans,body.light-d .service-style-two {
     z-index: 0;
 }
 body.light-d .form-control{
-    color: white;
+    color: black;
 }
 body.light-d .service-style-two .service-two-box:hover .service-two-icon:before,
 body.light-d .nice-select,body.light-d input,body.light-d select {
@@ -269,7 +269,7 @@ body.light-d .nice-select,body.light-d input,body.light-d select {
 body.light-d .service-style-two .service-two-box .service-two-icon svg,
 body.light-d .heading.heading-style-3 svg,
 body.light-d .team-style-two .team-data .contact svg{
-    fill: white;
+    fill: black;
 }
 body.light-d .service-two-box:hover h3 a,
 body.light-d .service-two-box:hover p,
@@ -313,8 +313,8 @@ body.light-d .blog-style-two .blog-item .blog-post-num{
     -webkit-text-stroke-color:white ;
 }
 body.light-d .counter-style-one .counter-data .count{
-    color: #ffffff;
-    -webkit-text-stroke-color: #ffffff;
+    color: black;
+    -webkit-text-stroke-color: black;
 }
 .next-prev-projects li a{
     background-color: #ffee02;
